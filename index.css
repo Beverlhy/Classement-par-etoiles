@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    background-color: rgba(7, 105, 112, 0.548);
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+}
+#exper{
+    position: absolute;
+    background-color: rgb(253, 252, 252);
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 28%;
+    border-radius: 15px;
+}
+h2{
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(0, 0, 0, 0.61);
+}
+button{
+    position: relative;
+    background-color: #3a0606;
+    border: none;
+    border-radius: 15px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 100px;
+    cursor: pointer;
+    margin: 3%;
+    visibility: hidden;
+}
+.etoile{
+    width: 60px;
+    filter: invert(75%);
+    cursor: pointer;
+    margin-left: 1%;
+}
+.active{
+    filter: invert(0%);
+
+}
