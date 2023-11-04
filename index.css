@@ -7,7 +7,7 @@ body{
 }
 #exper{
     position: absolute;
-    background-color: rgb(253, 252, 252);
+    background-color: rgb(162, 165, 13);
     top: 25%;
     left: 25%;
     width: 50%;
@@ -17,11 +17,11 @@ body{
 h2{
     font-weight: bold;
     font-size: 28px;
-    color: rgba(0, 0, 0, 0.61);
+    color: rgb(255, 255, 255);
 }
 button{
     position: relative;
-    background-color: #3a0606;
+    background-color: #06686b;
     border: none;
     border-radius: 15px;
     font-size: 18px;
